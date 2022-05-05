@@ -111,7 +111,7 @@ export default function Upload({ page }: Props) {
                       loadingPosition="start"
                       startIcon={<Done color="success" />}
                       onClick={async () => {
-                        window.alert("Group " + groupid.toString() + " has permitions of this file.");
+                        window.alert("Group " + groupid.toString() + " has permissions of this file.");
                         await upload(groupid);
                       }}
                     />
