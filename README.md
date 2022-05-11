@@ -1,8 +1,11 @@
 # File train Demo
-This Projects based on Etherdata Blockchain
+This Project is for 2022spring MSBD5017 based on Etherdata Blockchain. The Demo can be viewed at https://file-train-8plqcr1yf-block-chain-file-train-project.vercel.app/
 
-![logo](./images/learn-blockchain.png)
 
+## Team Members
+CHEN Zijie, ZHOU, Jiayi, ZHU, Zhenyi
+
+## Setups
 Install dependencies
 
 ```
